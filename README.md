@@ -7,3 +7,11 @@ The Academic Performance Predictor project aims to leverage machine learning tec
 - Programming Language: Python
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - Development Environment: Jupyter Notebook 
+
+## Workflow:
+
+- Load and clean the dataset
+- Perform EDA to uncover trends
+- Split data into training and test sets
+- Train machine learning models 
+- Evaluate and compare model performance
